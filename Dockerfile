@@ -1,4 +1,4 @@
-FROM ghcr.io/cmgrayb/yamllint:v1.0.0 AS yamllint
+FROM ghcr.io/cmgrayb/yamllint:v1.1.0 AS yamllint
 
 RUN apk add --update --no-cache bash
 
