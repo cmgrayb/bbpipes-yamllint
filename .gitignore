@@ -1,0 +1,118 @@
+# Windows recommended exclusions
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows desktop.ini files
+Desktop.ini
+
+# Windows Recycle Bin
+$RECYCLE.BIN/
+
+# Windows temporary files
+*.tmp
+*.temp
+
+# Windows log files
+*.log
+
+# Windows volume shadow copy files
+System Volume Information/
+
+# Linux recommended exclusions
+# Temporary files
+*~
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Compiled dynamic libraries
+*.so
+*.so.*
+*.dylib
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+
+# Core dump files
+core
+
+# Package files
+*.deb
+*.rpm
+*.pkg
+*.dmg
+
+# System files
+/dev/
+/proc/
+/sys/
+/tmp/
+/run/
+
+# Network files
+*.swp
+*.swo
+*.swx
+*.swpx
+*.swpxx
+*.swp~
+*.swo~
+*.swx~
+*.swpx~
+*.swpxx~
+*.swp.*
+*.swo.*
+*.swx.*
+*.swpx.*
+*.swpxx.*
+*.swp~.*
+*.swo~.*
+*.swx~.*
+*.swpx~.*
+*.swpxx~.*
+
+# OSX recommended exclusions
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/

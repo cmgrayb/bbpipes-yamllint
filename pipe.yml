@@ -1,0 +1,28 @@
+name: YAMLLint Bitbucket Pipe
+image: ghcr.io/cmgrayb/yamllint
+description: Performs linting on files in the repository using [yamllint](https://yamllint.readthedocs.io/en/stable/)
+category: Code quality
+repository: https://github.com/cmgrayb/bbpipes-yamllint
+vendor:
+  name:
+  website:
+maintainer:
+  name: Christopher Gray
+  website: https://github.com/cmgrayb/bbpipes-yamllint
+tags:
+  - bitbucket-pipelines
+  - pipes
+  - bash
+  - yamllint
+  - lint
+  - yaml
+  - bitbucket
+  - pipeline
+  - pipe
+  - bitbucket-pipe
+  - bitbucket-pipes
+  - bitbucket-pipelines-pipe
+  - bitbucket-pipelines-pipes
+  - bitbucket-pipelines-yamllint
+  - bitbucket-pipelines-yamllint-pipe
+  - bitbucket-pipelines-yamllint-pipes
